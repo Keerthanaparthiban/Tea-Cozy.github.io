@@ -123,3 +123,7 @@
   text-align: left;
   padding: 0 0 40px 20px;
 }
+
+.C1 {
+  display: inline-flex;
+}
